@@ -4,14 +4,6 @@ Recent Data Science graduate from BYU-Idaho with hands-on experience in data eng
 Currently expanding my skill set in advanced SQL and PySpark and developing projects that demonstrate end-to-end data engineering & science workflows.
 Open to collaborating on data engineering, big data, and modeling projects — feel free to reach out!
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ikebeau&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ikebeau&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikebeau&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ikebeau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
 ## Socials:
