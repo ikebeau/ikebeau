@@ -1,6 +1,6 @@
 # About Me:
-**Isaac Beaumont** | Data Science & Engineering
-Recent Data Science graduate from BYU-Idaho with hands-on experience in data engineering and big data technologies, including Databricks, PySpark, and SQL. Passionate about solving complex data problems and building scalable pipelines.
+**Isaac Beaumont** | Data Science & Engineering <br>
+Recent Data Science graduate from BYU-Idaho with hands-on experience in data engineering and big data technologies, including Databricks, PySpark, and SQL. Passionate about solving complex data problems and building scalable pipelines.<br>
 Currently expanding my skill set in Time Series analysis with R and developing projects that demonstrate end-to-end data science workflows.
 Open to collaborating on data engineering, big data, and modeling projects — feel free to reach out!
 
